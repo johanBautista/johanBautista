@@ -1,16 +1,17 @@
 <!--
 **important links:
 - https://dev.to/envoy_/150-badges-for-github-pnk#linters
+- Photo by <a href="https://unsplash.com/@domenicoloia?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Domenico Loia</a> on <a href="https://unsplash.com/photos/macbook-pro-on-table-beside-white-imac-and-magic-mouse-hGV2TfOh0ns?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 - add new img
   - create a new issue, add to gh, save and copy the link for use inside the readme.md
 -->
 
 <p align="center">
-  <a href="https://johan-bautista.vercel.app" target="_blank" rel="noreferrer"><img src="https://github.com/johanBautista/johanBautista/assets/48714924/bfc9c255-0d21-4d33-bdf3-ee9ca7c6950d.png" alt="my banner"></a>
+  <a href="https://johan-bautista.vercel.app" target="_blank" rel="noreferrer"><img src="https://github.com/johanBautista/johanBautista/assets/48714924/cec266b2-c101-44ee-9c2e-7c12668eeb10.jpeg" alt="header banner"></a>
 </p>
 
 
-### Hi there, I'm Johan Bautista! 👋
+### Hi, I'm Johan Bautista! 👋
 
 🔹 **Front-End Developer** | 📍 **Currently at Indicator**
 
@@ -26,6 +27,7 @@ As a technology enthusiast, I enjoy staying updated and enhancing my skills, alw
 </div>
 
 <h2 align="center"> 🛠 Technical Skills</h2>
+<div></div>
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />&nbsp;&nbsp;&nbsp;
