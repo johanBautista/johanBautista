@@ -16,7 +16,7 @@ I am a passionate **Front-End Developer** specialized in creating attractive and
 As a technology enthusiast, I enjoy staying updated and enhancing my skills, always looking for the perfect integration between functionality and visual design.
 
 ### 📫 How to Reach Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johanbautista/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johanbautista/){:target="_blank"}
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsbparra@gmail.com?subject=Hello%20Ileri,%20From%20Github)
 
 
