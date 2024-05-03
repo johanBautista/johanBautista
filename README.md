@@ -22,28 +22,28 @@ I am a passionate **Front-End Developer** specialized in creating attractive and
 As a technology enthusiast, I enjoy staying updated and enhancing my skills, always looking for the perfect integration between functionality and visual design.
 
 <div>
-<a target="_blank" href="https://www.linkedin.com/in/johanbautista/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://www.linkedin.com/in/johanbautista/"><img src="https://img.shields.io/badge/linkedin-1A2C34.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="mailto:jsbparra@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <h2 align="center"> 🛠 Technical Skills</h2>
 <div></div>
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Figma-1A2C34?style=for-the-badge&logo=figma&logoColor=F24E1E" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/eslint-1A2C34?style=for-the-badge&logo=eslint&logoColor=3A33D1" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-1A2C34?style=for-the-badge&logo=html5&logoColor=E34F26" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1A2C34?style=for-the-badge&logo=css3&logoColor=1572B6" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-1A2C34?style=for-the-badge&logo=bootstrap&logoColor=563D7C" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind_CSS-1A2C34?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GIT-1A2C34?style=for-the-badge&logo=git&logoColor=E44C30" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Jira-1A2C34?style=for-the-badge&logo=Jira&logoColor=0052CC" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-1A2C34?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React-1A2C34?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Vue.js-1A2C34?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Jest-1A2C34?style=for-the-badge&logo=Jest&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-1A2C34?style=for-the-badge&logo=mysql&logoColor=43853D" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-1A2C34?style=for-the-badge&logo=node.js&logoColor=43853D" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
