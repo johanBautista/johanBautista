@@ -1,13 +1,12 @@
-### 👨‍💻
-
 <!--
 **important links:
 - https://dev.to/envoy_/150-badges-for-github-pnk#linters
-https://github.com/johanBautista/johanBautista/assets/48714924/88fcab3b-0d13-45f0-9058-fd523caaf09e
+- add new img
+  - create a new issue, add to gh, save and copy the link for use inside the readme.md
 -->
 
 <p align="center">
-  <a href="https://johan-bautista.vercel.app" target="_blank" rel="noreferrer"><img src="https://github.com/johanBautista/johanBautista/assets/48714924/88fcab3b-0d13-45f0-9058-fd523caaf09e.png" alt="my banner"></a>
+  <a href="https://johan-bautista.vercel.app" target="_blank" rel="noreferrer"><img src="https://github.com/johanBautista/johanBautista/assets/48714924/bfc9c255-0d21-4d33-bdf3-ee9ca7c6950d.png" alt="my banner"></a>
 </p>
 
 
@@ -20,7 +19,7 @@ I am a passionate **Front-End Developer** specialized in creating attractive and
 
 As a technology enthusiast, I enjoy staying updated and enhancing my skills, always looking for the perfect integration between functionality and visual design.
 
-### 📫 How to Reach Me
+### 👨‍💻 How to Reach Me
 <div>
   <a target="_blank" href="https://www.linkedin.com/in/johanbautista/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="mailto:jsbparra@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
