@@ -3,7 +3,12 @@
 <!--
 **important links:
 - https://dev.to/envoy_/150-badges-for-github-pnk#linters
+https://github.com/johanBautista/johanBautista/assets/48714924/88fcab3b-0d13-45f0-9058-fd523caaf09e
 -->
+
+<p align="center">
+  <a href="https://johan-bautista.vercel.app" target="_blank" rel="noreferrer"><img src="https://github.com/johanBautista/johanBautista/assets/48714924/88fcab3b-0d13-45f0-9058-fd523caaf09e.png" alt="my banner"></a>
+</p>
 
 
 ### Hi there, I'm Johan Bautista! 👋
