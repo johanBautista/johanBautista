@@ -13,18 +13,30 @@
 
 ### Hi, I'm Johan Bautista! 👋
 
-🔹 **Front-End Developer** | 📍 **Currently at Indicator**
-
-
-### 🚀 About Me
-I am a passionate **Front-End Developer** specialized in creating attractive and efficient web interfaces. I'm currently part of the team at **Indicator**, where I work on improving web interface performance for our clients. My background in audiovisual production influences my approach to creating both aesthetic and functional solutions.
-
-As a technology enthusiast, I enjoy staying updated and enhancing my skills, always looking for the perfect integration between functionality and visual design.
-
+🔹 **Front-End Developer** 
 <div>
 <a target="_blank" href="https://www.linkedin.com/in/johanbautista/"><img src="https://img.shields.io/badge/linkedin-FBFBFB.svg?&style=for-the-badge&logo=linkedin&logoColor=0073B1" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="mailto:jsbparra@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-FBFBFB.svg?&style=for-the-badge&logo=gmail&logoColor=D14836" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+
+
+### 🚀 Sobre mí
+Frontend Developer | Vue.js | React | SaaS | Optimización de rendimiento
+
+Soy un Desarrollador Frontend con más de cuatro años de experiencia creando interfaces dinámicas y optimizadas para plataformas SaaS. Mi enfoque va más allá del código: me especializo en mejorar la experiencia de usuario, optimizar el rendimiento y garantizar aplicaciones eficientes y escalables.
+
+💡 Impacto y Logros:
+✔ Reduje los tiempos de carga mejorando la performance de SPAs.
+✔ Implementé componentes interactivos con una fidelidad píxel perfect de los wireframe en Figma.
+✔ Aumenté la cobertura de pruebas con Cypress, reduciendo errores en producción.
+
+🛠 Habilidades clave: Vue.js, React, JavaScript, TypeScript, CSS, Tailwind, API REST, CI/CD, Pruebas Automatizadas (Cypress), Docker.
+
+🎯 📢 Actualmente en búsqueda activa de nuevas oportunidades como Frontend Developer. Me interesa unirme a equipos donde pueda seguir creando productos de alto impacto y aportar mi experiencia en desarrollo web, optimización de rendimiento y experiencia de usuario.
+
+📩 ¿Hablamos? Si buscas un perfil como el mío, estaré encantado de conectar y explorar oportunidades.🚀
+
+
 
 <h2 align="center"> 🛠 Technical Skills</h2>
 <div></div>
@@ -49,3 +61,12 @@ As a technology enthusiast, I enjoy staying updated and enhancing my skills, alw
 <p align="center">
   <a href="https://johan-bautista.vercel.app" target="_blank" rel="noreferrer"><img src="https://github.com/johanBautista/johanBautista/assets/48714924/bfc9c255-0d21-4d33-bdf3-ee9ca7c6950d.png" alt="my banner"></a>
 </p>
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/johanBautista/johanBautista">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanBautista&hide=shell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/johanBautista/johanBautista">
+  <img src="https://github-readme-stats.vercel.app/api?username=johanBautista&show_icons=true&hide=stars,contribs&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Johan's GitHub Stats" />
+</a>
