@@ -11,63 +11,60 @@
 </p>
 
 
-### Hola, soy Johan Bautista! 👋
-
-🔹 **Front-End Developer** 🔹 
-<div>
-<a target="_blank" href="https://www.linkedin.com/in/johanbautista/"><img src="https://img.shields.io/badge/linkedin-FBFBFB.svg?&style=for-the-badge&logo=linkedin&logoColor=0073B1" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="mailto:jsbparra@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-FBFBFB.svg?&style=for-the-badge&logo=gmail&logoColor=D14836" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
-
-
-### 🚀 Sobre mí
-Soy un Desarrollador Frontend con más de cuatro años de experiencia creando interfaces dinámicas y optimizadas para plataformas SaaS. Mi enfoque va más allá del código: me especializo en mejorar la experiencia de usuario, optimizar el rendimiento y garantizar aplicaciones eficientes y escalables.
-
-💡 Impacto y Logros:
-✔ Reduje los tiempos de carga mejorando la performance de SPAs.
-✔ Implementé componentes interactivos con una fidelidad píxel perfect de los wireframe en Figma.
-✔ Aumenté la cobertura de pruebas con Cypress, reduciendo errores en producción.
-
-🛠 Habilidades clave: Vue.js, React, JavaScript, TypeScript, CSS, Tailwind, API REST, CI/CD, Pruebas Automatizadas (Cypress), Docker.
-
-🎯 📢 Actualmente en búsqueda activa de nuevas oportunidades como Frontend Developer. Me interesa unirme a equipos donde pueda seguir creando productos de alto impacto y aportar mi experiencia en desarrollo web, optimización de rendimiento y experiencia de usuario.
-
-📩 ¿Hablamos? Si buscas un perfil como el mío, estaré encantado de conectar y explorar oportunidades.🚀
-
-
-
-<h2 align="center"> 🛠 Technical Skills</h2>
-<div></div>
+<h1 align="center">¡Hola, soy Johan Bautista! 👋</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-FBFBFB?style=for-the-badge&logo=figma&logoColor=F24E1E" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/eslint-FBFBFB?style=for-the-badge&logo=eslint&logoColor=3A33D1" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/prettier-FBFBFB?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-FBFBFB?style=for-the-badge&logo=html5&logoColor=E34F26" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-FBFBFB?style=for-the-badge&logo=css3&logoColor=1572B6" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-FBFBFB?style=for-the-badge&logo=bootstrap&logoColor=563D7C" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Tailwind_CSS-FBFBFB?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GIT-FBFBFB?style=for-the-badge&logo=git&logoColor=E44C30" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Jira-FBFBFB?style=for-the-badge&logo=Jira&logoColor=0052CC" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-FBFBFB?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/React-FBFBFB?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Vue.js-FBFBFB?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Jest-FBFBFB?style=for-the-badge&logo=Jest&logoColor=c21325" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-FBFBFB?style=for-the-badge&logo=mysql&logoColor=0074a3" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-FBFBFB?style=for-the-badge&logo=node.js&logoColor=43853D" />&nbsp;&nbsp;&nbsp;
+  <strong>Front-End Developer especializado en crear productos SaaS eficientes, escalables y centrados en el usuario.</strong>
 </p>
 
 <p align="center">
-  <a href="https://johan-bautista.vercel.app" target="_blank" rel="noreferrer"><img src="https://github.com/johanBautista/johanBautista/assets/48714924/bfc9c255-0d21-4d33-bdf3-ee9ca7c6950d.png" alt="my banner"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/johanbautista/">
+    <img src="https://img.shields.io/badge/linkedin-0073B1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a target="_blank" href="mailto:jsbparra@gmail.com?subject=Contacto%20desde%20GitHub%20-%20Frontend%20Developer">
+    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>&nbsp;&nbsp;
+  <a target="_blank" href="https://johan-bautista.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
-<!--
-## &#x1f4c8; GitHub Stats
+---
 
-<a href="https://github.com/johanBautista/johanBautista">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanBautista&hide=shell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/johanBautista/johanBautista">
-  <img src="https://github-readme-stats.vercel.app/api?username=johanBautista&show_icons=true&hide=stars,contribs&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Johan's GitHub Stats" />
-</a>
--->
+### 🚀 Sobre Mí
 
+Soy un **Desarrollador Frontend** con más de **4 años de experiencia** transformando ideas en interfaces dinámicas y optimizadas para plataformas SaaS. Mi enfoque va más allá de escribir código; me apasiona perfeccionar la arquitectura del lado del cliente, agilizar flujos de desarrollo y garantizar que cada interacción sume valor real al usuario.
+
+*   🎯 **Enfoque Actual:** Búsqueda activa de nuevos retos en equipos de alto impacto tecnológico.
+*   🧠 **Filosofía de Trabajo:** Modularidad, rendimiento web y obsesión por el *Pixel-Perfect*.
+
+#### 💡 Impacto y Logros Clave
+*   ⚡ **Optimización de Rendimiento:** Reducción drástica de tiempos de carga y optimización de renderizado en SPAs complejas.
+*   📐 **Fidelidad de Diseño:** Implementación estricta de sistemas de diseño complejos a partir de prototipos de Figma.
+*   🛡️ **Calidad de Software:** Incremento sustancial en la cobertura de pruebas E2E automatizadas mediante **Cypress**, disminuyendo la tasa de errores críticos en producción.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+<p align="left">
+  <!-- Frontend Core -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <br/>
+  <!-- Estilos & Maquetación -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <br/>
+  <!-- Testing & Herramientas -->
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
